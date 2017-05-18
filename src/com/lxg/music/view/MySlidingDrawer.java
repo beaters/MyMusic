@@ -10,6 +10,7 @@ import android.widget.SlidingDrawer;
 import com.lxg.music.interfaces.IOnSlidingHandleViewClickListener;
 
 public class MySlidingDrawer extends SlidingDrawer{
+
     private int mHandleId = 0;              	 //抽屉行为控件ID
     private int[] mTouchableIds = null;    		//Handle 部分其他控件ID
     

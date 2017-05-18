@@ -20,8 +20,6 @@ import java.util.List;
 
 public class LrcView extends ScrollView{
 
-
-
 	private LyricModel lyricModel;
 	private List<SentenceModel> list;
 	private List<TextView>	textList;
