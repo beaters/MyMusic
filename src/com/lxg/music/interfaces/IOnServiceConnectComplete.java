@@ -4,6 +4,6 @@ import com.lxg.music.aidl.IMediaService;
 
 public interface IOnServiceConnectComplete {
 
-	public void onServiceConnectComplete(IMediaService service);
+	void onServiceConnectComplete(IMediaService service);
 }
 

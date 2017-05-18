@@ -6,6 +6,6 @@ import java.util.List;
 
 public interface IQueryFinished {
 	
-	public void onFinished(List<MusicInfo> list);
+	void onFinished(List<MusicInfo> list);
 
 }
