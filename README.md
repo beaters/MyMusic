@@ -1,7 +1,4 @@
 MyMusic
 =======
 
-安卓手机音乐播放器项目，使用了当下比较流行的开源框架或技术。欢迎各位的指导交流
-
-
-。。。
+Android Music Player project.It's just a demo,so if u want to use it ,u can rewrite code freely.If u find any bug,plz contact me lxgvisual@gmail.com.
