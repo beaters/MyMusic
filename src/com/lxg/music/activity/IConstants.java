@@ -2,6 +2,8 @@ package com.lxg.music.activity;
 
 /**
  * 常量
+ * @Author lxg
+ *
  */
 public interface IConstants {
 	public static final String uri="https://www.douban.com/j/app/radio/people?channel=0&app_name=radio_android&version=100&type=&sid=0";

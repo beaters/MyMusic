@@ -18,7 +18,7 @@ import java.util.List;
 
 /**
  * 控制Service
- *
+ * @Author lxg
  */
 public class ServiceManager implements IConstants {
 

@@ -18,7 +18,7 @@ import java.util.Random;
 
 /**
  * 歌曲控制
- *
+ * @Author lxg
  */
 public class MusicControl implements IConstants, OnCompletionListener {
 	
