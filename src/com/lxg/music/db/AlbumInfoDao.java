@@ -50,6 +50,7 @@ public class AlbumInfoDao {
 	
 	/**
 	 * 数据库中是否有数据
+	 * @Author lxg
 	 * @return
 	 */
 	public boolean hasData() {
