@@ -8,6 +8,7 @@ import android.view.ViewGroup;
 
 import com.lxg.music.R;
 
+//@author lxg
 public class LeftFragment extends Fragment {
 	
 	@Override
